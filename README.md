@@ -1,4 +1,4 @@
-# Cliff Walking MDP Visualizations
+# Cliff Walking MDP Project
 
 This project implements a Cliff Walking environment and demonstrates two classic dynamic programming algorithms for Markov Decision Processes (MDPs): **Policy Iteration** and **Value Iteration**. The algorithms are implemented using a custom Agent class that builds on the OpenAI Gymnasium toy-text environment for Cliff Walking. As the algorithms run, their iterative history is captured and later rendered as animated GIFs to visualize how the policy and value function evolve over iterations.
 
