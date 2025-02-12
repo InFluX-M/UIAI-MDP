@@ -33,9 +33,9 @@ In **policy iteration**, the algorithm alternates between:
 1. **Policy Evaluation:** Compute $ V^\pi $ for the current policy.
 2. **Policy Improvement:** Update the policy using:
    
-   $$
-   \pi'(s) = \arg\max_a \sum_{s'} P(s'|s,a) \left[ R(s,a,s') + \gamma\, V^\pi(s') \right]
-   $$
+$$
+\pi'(s) = \arg\max_a \sum_{s'} P(s'|s,a) \left[ R(s,a,s') + \gamma\, V^\pi(s') \right]
+$$
    
 This process repeats until the policy converges.
 
