@@ -118,7 +118,7 @@ Animated GIFs are generated to provide an intuitive view of how the policy and v
 
 ## Contributors
 
-This project was developed as part of a group assignment for the Fundamentals of Artificial Intelligence course at the University of Isfahan, taught by Dr. Karshenas.
+This project was developed as part of a group assignment for Dr. Karshenas's Fundamentals of Artificial Intelligence course at the University of Isfahan.
 
 
 **Group Members:**  
