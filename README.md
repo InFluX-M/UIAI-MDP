@@ -123,3 +123,7 @@ Animated GIFs are generated to provide an intuitive view of how the policy and v
 
 ---
 
+## Contributors
+- Zahra Masoumi (Github: [@asAlwaysZahra](https://github.com/asAlwaysZahra))
+- Matin Azami (Github: [@InFluX-M](https://github.com/InFluX-M))
+- Amirali Lotfi (Github: [@liAmirali](https://github.com/liAmirali/))
