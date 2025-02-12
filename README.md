@@ -116,6 +116,16 @@ Animated GIFs are generated to provide an intuitive view of how the policy and v
 
 ---
 
+## Contributors
+
+This project was developed as part of a group assignment for the Fundamentals of Artificial Intelligence course at the University of Isfahan, taught by Dr. Karshenas.
+
+
+**Group Members:**  
+- Zahra Masoumi (Github: [@asAlwaysZahra](https://github.com/asAlwaysZahra))
+- Matin Azami (Github: [@InFluX-M](https://github.com/InFluX-M))
+- Amirali Lotfi (Github: [@liAmirali](https://github.com/liAmirali/))
+
 ## References
 
 - Norvig, P., & Russell, S. (2020). *Artificial Intelligence: A Modern Approach* (4th Edition). Pearson.
@@ -123,7 +133,3 @@ Animated GIFs are generated to provide an intuitive view of how the policy and v
 
 ---
 
-## Contributors
-- Zahra Masoumi (Github: [@asAlwaysZahra](https://github.com/asAlwaysZahra))
-- Matin Azami (Github: [@InFluX-M](https://github.com/InFluX-M))
-- Amirali Lotfi (Github: [@liAmirali](https://github.com/liAmirali/))
